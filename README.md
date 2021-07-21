@@ -42,3 +42,4 @@ npm run serve
 ## 정리
 서버의 `application.yml`의 client.-id, client-key를 수정해야 함.  
 클라이언트 포트랑 google oauth2 포트 번호를 일치 
+외않돼?
